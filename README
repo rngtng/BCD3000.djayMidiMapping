@@ -1,0 +1,21 @@
+README BCD3000 Midi Mappings
+---------------------------------------------------
+This are the Djay Midi Mappings for  Controller BCD3000 by Behringer. 
+It’s an easy to use device which brings way more fun mixing your MP3. 
+
+Please fork it and add your changes here:
+http://github.com/rngtng/BCD3000.djayMidiMapping
+
+HOW TO INSTALL
+--------------------------------------------------
+Copy the file to your Djay Folder / MIDI Mappings. For Mac users that's likely
+
+Music/djay/MIDI Mappings
+
+Happy djaying!!
+
+
+
+More Info:
+http://www.rngtng.com/2010/04/02/bcd3000-djay-midi-mappings/
+http://forum.djay-software.com/viewtopic.php?id=553
